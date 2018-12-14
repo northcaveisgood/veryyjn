@@ -1,4 +1,4 @@
-const devs = ["ايديك"];
+const devs = ["339383725706051585"];
 const adminprefix = ["-"];
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
